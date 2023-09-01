@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FelpxZero
 - 👀 I’m interested in Dev and Linux
-- 🌱 I’m currently learning C/C++ and Linux.
+- 🌱 I’m currently learning front-end, c/c++ and Python.
 - 💞️ I’m looking to collaborate on Linux and opensource world in general.
 - 📫 How to reach me felipe32308@gmail.com
